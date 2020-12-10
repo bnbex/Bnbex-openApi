@@ -1,6 +1,0 @@
-six
-requests
-autobahn
-Twisted
-pyopenssl
-service_identity
